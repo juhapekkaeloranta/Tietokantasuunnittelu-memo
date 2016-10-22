@@ -1,0 +1,2 @@
+# Tietokantasuunnittelu_memot
+2016 syksyn tietokantasuunnitelukurssin muistiinpanoja
